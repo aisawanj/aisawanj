@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aisawan Jindarat
+Hi there, I'm Aisawan ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ========================================================================================================================================
 
 Now I'm studying for a Master's degree in MBA at Prince of Songkla University, Songkhla. Liked mathematics and statistics, and interested in big data technologies and business intelligence to analyze data for practical insights.
