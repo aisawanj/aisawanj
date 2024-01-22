@@ -11,7 +11,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 
 [1. Cer_Road to Data Engineer](https://drive.google.com/file/d/16PYOztzKaxawEadw4CLAq_2F9jD1D3nv/view?usp=sharing)
 
-[2. Cer_Microsoft Excel Advanced](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view?usp=sharing)
+[2. Cer_Microsoft Excel Advanced & Excel Power Query](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view?usp=sharing)
 
 [3. Cer_MS Power BI for Data Anlytics](https://drive.google.com/file/d/1fjz7PlGhneQd7uCnU4xFYIjqrnSVcHEC/view?usp=sharing)
 
