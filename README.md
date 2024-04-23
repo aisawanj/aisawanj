@@ -18,7 +18,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 *   ✉️  You can contact me at [aisawan\_jindarat@hotmail.com](mailto:aisawan_jindarat@hotmail.com)
 *   🧠  I'm interested in learning more about Hadoop, AWS, Azure, NoSQL, AI and Machine Learning, JavaScript, and Docker
 
-
+<br>
 <h2 align="Left"><u>Certificates</u></h2>
 
 | Link Address                  | Description                                                |
@@ -30,27 +30,9 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 | _[Link (Power BI)](https://drive.google.com/file/d/1fjz7PlGhneQd7uCnU4xFYIjqrnSVcHEC/view?usp=sharing)_           |  MS Power BI for Data Analytics                |
 | _[Link (Excel)](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view)_                       | MS Excel Power Query       |
 
-<h4 align="center">All of these are open source!</h4>
 
 
 
-
-
-
-
-
-
-
-
-
-
-## 🔗 Links
-
-[1. Cer_Road to Data Engineer](https://drive.google.com/file/d/16PYOztzKaxawEadw4CLAq_2F9jD1D3nv/view?usp=sharing)
-
-[2. Cer_Microsoft Excel Advanced & Excel Power Query](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view?usp=sharing)
-
-[3. Cer_MS Power BI for Data Anlytics](https://drive.google.com/file/d/1fjz7PlGhneQd7uCnU4xFYIjqrnSVcHEC/view?usp=sharing)
 
 
 ### Languages and Tools:
