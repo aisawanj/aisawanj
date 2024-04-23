@@ -21,8 +21,8 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 <br>
 <h2 align="Left"><u>🏆 Certificates</u></h2>
 
-| Link Address                  | Description                                                |
-| ---------------------------------|--------------------------------------------------------------- |
+| Link Address                     | Description                                                |
+| ---------------------------------|----------------------------------------------------------- |
 | _[Link (Data Engineer)](https://drive.google.com/file/d/16PYOztzKaxawEadw4CLAq_2F9jD1D3nv/view)_            | Data Engineer                                |
 | _[Link (SQL)](https://drive.google.com/file/d/13imaG-ZTMUtcqvoZwkNxKdhM6uTK53VO/view?usp=sharing)_          | SQL by HackerRank                            |
 | _[Link (Python)](https://drive.google.com/file/d/13iQ9g_vZ9LDcNdbg-VIKB6aZfGWKkz_X/view?usp=sharing)_       | Python by HackerRank                         |
