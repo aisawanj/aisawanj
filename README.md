@@ -95,19 +95,19 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
     </td>
     <td align="center" width="96">
       <a href="#Scikit Learn">
-        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40" alt="Scikit Learn" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit Learn" />
       </a>
       <br>Scikit Learn
     </td>
      <td align="center" width="96">
       <a href="#Pandas">
-        <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40" alt="Pandas" />
+        <img src="https://www.netdata.cloud/img/pandas.png" width="40" height="40" alt="Pandas" />
       </a>
       <br>Pandas
     </td>
      <td align="center" width="96">
       <a href="#Seaborn">
-        <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="40" height="40" alt="Seaborn" />
+        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="40" height="40" alt="Seaborn" />
       </a>
       <br>Seaborn
     </td>
@@ -119,7 +119,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
     </td>
      <td align="center" width="96">
       <a href="#Numpy">
-        <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="40" height="40" alt="Numpy" />
+        <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" width="40" height="40" alt="Numpy" />
       </a>
       <br>Numpy
     </td>
