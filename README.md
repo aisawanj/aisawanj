@@ -19,7 +19,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 *   🧠  I'm interested in learning more about Hadoop, AWS, Azure, NoSQL, AI and Machine Learning, JavaScript, and Docker
 
 <br>
-<h2 align="Left"><u>Certificates</u></h2>
+<h2 align="Left"><u>🏆📊Certificates</u></h2>
 
 | Link Address                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
