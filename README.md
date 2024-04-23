@@ -50,5 +50,3 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 
 
 
-<p align="center">
-  <img src="[https://github.com/aisawanj/aisawanj/blob/main/github-user-contribution.svg" alt="snake">
