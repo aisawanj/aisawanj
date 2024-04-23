@@ -47,20 +47,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 
 | Link Address                     | Description                                                |
 | ---------------------------------|----------------------------------------------------------- |
-| Data Engineer             |   <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="Left" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-  <tr>                               |
+| Data Engineer             |       Data Engineer                            |
 | SQL by HackerRank          | SQL by HackerRank                            |
 | Python by HackerRank      | Python by HackerRank                         |
 | Develop REST API with Django Rest Framework        | Develop REST API with Django Rest Framework  |
