@@ -30,7 +30,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 | _[Link (Power BI)](https://drive.google.com/file/d/1fjz7PlGhneQd7uCnU4xFYIjqrnSVcHEC/view?usp=sharing)_     |  MS Power BI for Data Analytics              |
 | _[Link (Excel)](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view)_                    | MS Excel Power Query                         |
 
-<br>
+
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
 
 <table align="Left">
