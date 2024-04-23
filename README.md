@@ -47,7 +47,20 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 
 | Link Address                     | Description                                                |
 | ---------------------------------|----------------------------------------------------------- |
-| Data Engineer             | Data Engineer                                |
+| Data Engineer             |   <tr>
+      <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+    <td align="Left" width="96">
+      <a href="#css3">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+      </a>
+      <br>CSS3
+    </td>
+  <tr>                               |
 | SQL by HackerRank          | SQL by HackerRank                            |
 | Python by HackerRank      | Python by HackerRank                         |
 | Develop REST API with Django Rest Framework        | Develop REST API with Django Rest Framework  |
@@ -58,7 +71,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 <br>
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
 
-<table align="center">
+<table align="Left">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
@@ -66,12 +79,13 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
       </a>
       <br>Html5
     </td>
-    <td align="center" width="96">
+    <td align="Left" width="96">
       <a href="#css3">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
     </td>
+  <tr>
      <td align="center" width="96">
       <a href="#bootstrap">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
