@@ -13,20 +13,11 @@
 <be>
 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+
+<p align="center">
 
 
-
-
-
-
-
-
-
-
-
-
-Hi there, I'm Aisawan ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ========================================================================================================================================
 
 Now I'm studying for a Master's degree in MBA at Prince of Songkla University, Songkhla. Liked mathematics and statistics, and interested in big data technologies and business intelligence to analyze data for practical insights.
