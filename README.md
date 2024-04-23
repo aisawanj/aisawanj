@@ -173,7 +173,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
  <a href="https://github.com/aisawanj" target="_blank"><img height="30" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
  <a href="https://www.hackerrank.com/profile/aisawan_jindarat" target="_blank"><img height="30" src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge"></a>&nbsp;&nbsp;
  <a href="https://www.kaggle.com/jeffaj" target="_blank"><img height="30" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=for-the-badge"></a>&nbsp;&nbsp;
- <a href="aisawan_jindarat@hotmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge"></a>&nbsp;&nbsp;
- <a href="aisawan.jindarat@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>&nbsp;&nbsp;
+ <a href="mailto:aisawan_jindarat@hotmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff&style=for-the-badge"></a>&nbsp;&nbsp;
+ <a href="mailto:aisawan.jindarat@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>&nbsp;&nbsp;
                                             
  </p>
