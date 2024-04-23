@@ -154,7 +154,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 </table>
 
 
-<br><br><br><br><br>
+<br><br><br><br>
 ### Databases
 
 <table align="Left">
