@@ -18,6 +18,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 *   ✉️  You can contact me at [aisawan\_jindarat@hotmail.com](mailto:aisawan_jindarat@hotmail.com)
 *   🧠  I'm interested in learning more about Hadoop, AWS, Azure, NoSQL, AI and Machine Learning, JavaScript, and Docker
 
+
 <br>
 <h2 align="Left"><u>🏆 Certificates</u></h2>
 
@@ -29,30 +30,6 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 | _[Link (Rest API with DRF)](https://drive.google.com/file/d/14TAXQGTCi96ZxVNpDTUHkJVMadqzSW6U/view)_        | Develop REST API with Django Rest Framework  |
 | _[Link (Power BI)](https://drive.google.com/file/d/1fjz7PlGhneQd7uCnU4xFYIjqrnSVcHEC/view?usp=sharing)_     |  MS Power BI for Data Analytics              |
 | _[Link (Excel)](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view)_                    | MS Excel Power Query                         |
-
-<br>
-<h2 align="Left"><u>💻 Languages and Tools</u></h2>
-
-| Link Address                     | Description                                                |
-| ---------------------------------|----------------------------------------------------------- |
-| _[Link (Data Engineer)](https://drive.google.com/file/d/16PYOztzKaxawEadw4CLAq_2F9jD1D3nv/view)_            | Data Engineer                                |
-| _[Link (SQL)](https://drive.google.com/file/d/13imaG-ZTMUtcqvoZwkNxKdhM6uTK53VO/view?usp=sharing)_          | SQL by HackerRank                            |
-| _[Link (Python)](https://drive.google.com/file/d/13iQ9g_vZ9LDcNdbg-VIKB6aZfGWKkz_X/view?usp=sharing)_       | Python by HackerRank                         |
-| _[Link (Rest API with DRF)](https://drive.google.com/file/d/14TAXQGTCi96ZxVNpDTUHkJVMadqzSW6U/view)_        | Develop REST API with Django Rest Framework  |
-| _[Link (Power BI)](https://drive.google.com/file/d/1fjz7PlGhneQd7uCnU4xFYIjqrnSVcHEC/view?usp=sharing)_     |  MS Power BI for Data Analytics              |
-| _[Link (Excel)](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view)_                    | MS Excel Power Query                         |
-
-<br>
-<h2 align="Left"><u>💻 Languages and Tools</u></h2>
-
-| Link Address                     | Description                                                |
-| ---------------------------------|----------------------------------------------------------- |
-| Data Engineer             |       Data Engineer                            |
-| SQL by HackerRank          | SQL by HackerRank                            |
-| Python by HackerRank      | Python by HackerRank                         |
-| Develop REST API with Django Rest Framework        | Develop REST API with Django Rest Framework  |
-| MS Power BI for Data Analytics_     |  MS Power BI for Data Analytics              |
-| MS Excel Power Query                    | MS Excel Power Query                         |
 
 
 <br>
@@ -177,7 +154,6 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
     </td>
   </tr>
 </table>
-
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
