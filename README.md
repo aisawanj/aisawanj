@@ -58,7 +58,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 <br>
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
 
-<table align="Left">
+<table align="center">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
@@ -66,13 +66,12 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
       </a>
       <br>Html5
     </td>
-    <td align="Left" width="96">
+    <td align="center" width="96">
       <a href="#css3">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
       </a>
       <br>CSS3
     </td>
-  <tr>
      <td align="center" width="96">
       <a href="#bootstrap">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
