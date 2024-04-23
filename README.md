@@ -85,14 +85,6 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 <br><br><br><br>
 ### Libraries and Frameworks
 
-Django
-Scikit Learn
-Pandas
-Seaborn
-Matplotlib
-Numpy
-
-
 <table align="Left">
   <tr>
       <td align="center" width="96">
@@ -187,6 +179,107 @@ Numpy
     </td>
   </tr>
 </table>
+
+
+<br><br><br><br>
+### Cloud
+
+<table align="Left">
+  <tr>
+      <td align="center" width="96">
+      <a href="#AWS">
+        <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="40" height="40" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#GCP">
+        <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="40" height="40" alt="GCP" />
+      </a>
+      <br>GCP
+    </td>
+  </tr>
+</table>
+
+
+<br><br><br><br>
+### Operating system
+
+<table align="Left">
+  <tr>
+      <td align="center" width="96">
+      <a href="#Linux">
+        <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="40" height="40" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#Ubuntu">
+        <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40" height="40" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+     <td align="center" width="96">
+      <a href="#Windows">
+        <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="40" height="40" alt="Windows" />
+      </a>
+      <br>Windows
+    </td>
+  </tr>
+</table>
+
+
+<br><br><br><br>
+### Terminal Scripts
+
+<table align="Left">
+  <tr>
+      <td align="center" width="96">
+      <a href="#Bash">
+        <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width="40" height="40" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#PowerShell">
+        <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="40" height="40" alt="PowerShell" />
+      </a>
+      <br>PowerShell
+    </td>
+  </tr>
+</table>
+
+<br><br><br><br>
+### IDEs / Editors
+
+<table align="Left">
+  <tr>
+      <td align="center" width="96">
+      <a href="#Visual Studio Code">
+        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40" height="40" alt="Visual Studio Code" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#Jupyter Notebook">
+        <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40" height="40" alt="Jupyter Notebook" />
+      </a>
+      <br>Jupyter
+    </td>
+     <td align="center" width="96">
+      <a href="#Google Colab">
+        <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="40" height="40" alt="Google Colab" />
+      </a>
+      <br>Colab
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 
