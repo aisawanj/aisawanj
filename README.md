@@ -140,7 +140,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
     </td>
     <td align="center" width="96">
       <a href="#Apache Aiflow">
-        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40" alt="Apache Aiflow" />
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*sesfl3V6mvwVQUb1" width="40" height="40" alt="Apache Aiflow" />
       </a>
       <br>Apache Aiflow
     </td>
