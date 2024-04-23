@@ -10,8 +10,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
-
+<br>
 Now I'm studying for a Master's degree in MBA at Prince of Songkla University, Songkhla. Liked mathematics and statistics, and interested in big data technologies and business intelligence to analyze data for practical insights.
 
 *   🌍  I'm based in Songkhla, Thailand
