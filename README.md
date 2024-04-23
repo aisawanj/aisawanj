@@ -18,7 +18,6 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 *   ✉️  You can contact me at [aisawan\_jindarat@hotmail.com](mailto:aisawan_jindarat@hotmail.com)
 *   🧠  I'm interested in learning more about Hadoop, AWS, Azure, NoSQL, AI and Machine Learning, JavaScript, and Docker
 
-
 <br>
 <h2 align="Left"><u>🏆 Certificates</u></h2>
 
@@ -30,7 +29,6 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 | _[Link (Rest API with DRF)](https://drive.google.com/file/d/14TAXQGTCi96ZxVNpDTUHkJVMadqzSW6U/view)_        | Develop REST API with Django Rest Framework  |
 | _[Link (Power BI)](https://drive.google.com/file/d/1fjz7PlGhneQd7uCnU4xFYIjqrnSVcHEC/view?usp=sharing)_     |  MS Power BI for Data Analytics              |
 | _[Link (Excel)](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view)_                    | MS Excel Power Query                         |
-
 
 <br>
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
