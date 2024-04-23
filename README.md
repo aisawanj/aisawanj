@@ -157,5 +157,13 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="Left"><u>🌐 Connect with me</u></h2>
 
+### Contatos: 
+<p align='left'>
+   <a href="https://www.linkedin.com/in/aisawan-jindarat/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;    
+ <a href="https://github.com/aisawanj" target="_blank"><img height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+ </p>
 
+ ------
 
+https://github.com/aisawanj
+https://www.linkedin.com/in/aisawan-jindarat/
