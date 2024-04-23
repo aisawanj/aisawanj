@@ -242,7 +242,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
     </td>
     <td align="center" width="96">
       <a href="#PowerShell">
-        <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="40" height="40" alt="PowerShell" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" width="40" height="40" alt="PowerShell" />
       </a>
       <br>PowerShell
     </td>
@@ -262,13 +262,13 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
     </td>
     <td align="center" width="96">
       <a href="#Jupyter Notebook">
-        <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="40" height="40" alt="Jupyter Notebook" />
+        <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="40" height="40" alt="Jupyter Notebook" />
       </a>
       <br>Jupyter
     </td>
      <td align="center" width="96">
       <a href="#Google Colab">
-        <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="40" height="40" alt="Google Colab" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40" alt="Google Colab" />
       </a>
       <br>Colab
     </td>
