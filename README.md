@@ -36,7 +36,6 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 
 <br>
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
-<h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
   <tr>
