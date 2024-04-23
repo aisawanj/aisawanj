@@ -136,13 +136,13 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
       <a href="#Apache Spark">
         <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" width="40" height="40" alt="Apache Spark" />
       </a>
-      <br>Apache Spark
+      <br>Spark
     </td>
     <td align="center" width="96">
       <a href="#Apache Aiflow">
         <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*sesfl3V6mvwVQUb1" width="40" height="40" alt="Apache Aiflow" />
       </a>
-      <br>Apache Aiflow
+      <br>Aiflow
     </td>
      <td align="center" width="96">
       <a href="#PostMan">
