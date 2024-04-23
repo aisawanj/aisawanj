@@ -113,7 +113,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
     </td>
      <td align="center" width="96">
       <a href="#Matplotlib">
-        <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40" alt="Matplotlib" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" height="40" alt="Matplotlib" />
       </a>
       <br>Matplotlib
     </td>
