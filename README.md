@@ -55,14 +55,16 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 | MS Excel Power Query                    | MS Excel Power Query                         |
 
 
+https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png
+
 <br>
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
 
-<table align="center">
+<table align="Left">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://www.python.org/" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
