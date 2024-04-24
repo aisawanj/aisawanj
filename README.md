@@ -34,7 +34,7 @@
 - 🎯 2024 Goals: Data Engineering Professional.
 
 <br>
-<h2 align="Left"><u>🏆 Certificates</u></h2>
+<h2 align="Left"><u>🎖 Certificates</u></h2>
 
 | Link Address                     | Description                                                |
 | ---------------------------------|----------------------------------------------------------- |
