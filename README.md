@@ -2,12 +2,12 @@
 <!--  -->
 
 <p align="center">
-	<a href="https://github.com/hungpham3112">
-		<img src="https://komarev.com/ghpvc/?username=hungpham3112&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+	<a href="https://github.com/aisawanj">
+		<img src="https://komarev.com/ghpvc/?username=aisawanj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 	</a>
-	<a href="https://github.com/hungpham3112">
-		<img src="https://img.shields.io/github/followers/hungpham3112?label=Followers" alt="followers"/>
-	</a>
+	<a href="https://github.com/aisawanj">
+		<img src="https://img.shields.io/github/followers/aisawanj?label=Followers" alt="followers"/>
+	</a>	
 </p>
 
 
@@ -15,8 +15,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+!;Self-taught+Front-End+Developer;Always+learning+new+thing;CTF+Newbie;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />	
   
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
