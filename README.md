@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+!;Self-taught+Front-End+Developer;Always+learning+new+thing;CTF+Newbie;Open+to+anything+under+the+sun..🌞"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+!;Passionate+about+programming+and+technology.;Always+learning+new+thing.;Open+to+anything+under+the+sun..🌞"></a>
 </p>
 
   
@@ -31,7 +31,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 - 👯 I'm always open to interesting conversations and collaboration.
 - 🎯 2024 Goals: Data Engineering Professional.
 
-<br>
+
 <h2 align="Left"><u>🏆 Certificates</u></h2>
 
 | Link Address                     | Description                                                |
@@ -44,7 +44,6 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 | _[Link (Excel)](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view)_                    | MS Excel Power Query                         |
 
 
-<br>
 <h2 align="Left"><u>🗃 Projects</u></h2>
 
 Some of my main projects :
@@ -53,7 +52,6 @@ Some of my main projects :
 [![Automating data pipeline with Apache Airflow](https://github-readme-stats.vercel.app/api/pin/?username=aisawanj&repo=Automating_data_pipeline_with_Apache_Airflow&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aisawanj/Automating_data_pipeline_with_Apache_Airflow)
 
 
-<br>
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
 
 These are some of the major technologies that I use or have worked on in the past :
@@ -296,12 +294,12 @@ These are some of the major technologies that I use or have worked on in the pas
 </table>
 
 
-<br><br><br><br><br>
+<br><br><br><br>
 <h2 align="Left"><u>🌐 Connect with me</u></h2>
 
-If you want to reach out to me about anything, be it some doubt or just small talk, You can contact me anytime.
+If you want to reach out to me about anything, be it some doubt or just small talk, You can contact me anytime :)
 
-<br>
+
 <p align='left'>
    <a href="https://www.linkedin.com/in/aisawan-jindarat/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>&nbsp;&nbsp;    
  <a href="https://github.com/aisawanj" target="_blank"><img height="30" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
