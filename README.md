@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="https://github.com/aisawanj">
-		<img src="https://komarev.com/ghpvc/?username=aisawanj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+		<img src="https://komarev.com/ghpvc/?username=aisawanj&label=Visitors&color=0e75b6&style=flat" alt="profile views"/>
 	</a>
 	<a href="https://github.com/aisawanj">
 		<img src="https://img.shields.io/github/followers/aisawanj?label=Followers" alt="followers"/>
