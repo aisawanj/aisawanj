@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi visitors, I'm Aisawan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi visitors, I'm Aisawan 👋</b></h1>
 <!--  -->
 
 <p align="center">
@@ -23,7 +23,7 @@
 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp My name is Aisawan, graduated in 2018 with a B.Eng. in Electrical Engineering from Rajamangala University of Technology Srivijaya, currently studying for a Master's degree in Master of Business Administration at Prince of Songkla University. I am passionate about modern business management, particularly in the fields of programming, data-driven technologies, and business intelligence to analyze data for practical insights. I have honed my skills through hands-on experience on the internet and various study online courses, which has allowed me to expand my skill set. 
 <br><br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp I am enthusiastic about exploring new technologies and pushing the boundaries of what is possible through programming. I am committed to producing high-quality work and delivering results that exceed expectations. If you're looking for a motivated and dedicated data engineer, I would love to connect and discuss potential opportunities. 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp I am enthusiastic about exploring new technologies and pushing the boundaries of what is possible through programming. I am committed to producing high-quality work and delivering results that exceed expectations. If you're looking for a motivated and dedicated data engineer, I would love to connect and discuss potential opportunities. 🤝
 <br><br>
 
 - 👨🏻‍💻 My interest lies in Big data technologies, Data Science, Machine Learning, and Business Statistics.
