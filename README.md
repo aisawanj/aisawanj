@@ -50,8 +50,13 @@
 
 Some of my main projects :
 
-[![Bank churn prediction using machine learning](https://github-readme-stats.vercel.app/api/pin/?username=aisawanj&repo=Bank_churn_prediction_using_machine_learning&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aisawanj/Bank_churn_prediction_using_machine_learning)
-[![Automating data pipeline with Apache Airflow](https://github-readme-stats.vercel.app/api/pin/?username=aisawanj&repo=Automating_data_pipeline_with_Apache_Airflow&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aisawanj/Automating_data_pipeline_with_Apache_Airflow)
+### [ Bank churn prediction using machine learning ](https://github.com/aisawanj/Bank_churn_prediction_using_machine_learning) 🔗<br>
+This project uses machine learning, which involves analyzing customer data to identify those most likely to leave the bank, using a total of 14 models to test. From testing, it was found that the best models obtained are XGBoost and Random Forest as the best algorithms to predict Bank Customer Churn since they have the highest accuracy (95.68% and 95.32%), XGBoost and Random Forest produced almost perfect ROC-AUC scores of 0.9895 and 0.9879 in test data, respectively. This means that the model works well in predicting each class.
+<br>
+
+### [ Automating data pipeline with Apache Airflow ](https://github.com/aisawanj/Automating_data_pipeline_with_Apache_Airflow) 🔗<br>
+This project is to create a pipeline that transforms data automatically to prepare it for use by Ingest data from MySQL database using SQL and getting data from Rest API, Transform data following business requirements defined using Python, and exporting data into the Data Warehouse on BigQuery using GCSToBigQueryOperator to support analysis in various parts of the next business.
+
 
 <br>
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
