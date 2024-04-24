@@ -62,7 +62,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
     </td>
       <td align="center" width="96">
       <a href="#SQL">
-        <img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" width="40" height="40" alt="SQL" />
+        <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" width="40" height="40" alt="SQL" />
       </a>
       <br>SQL
     </td>
