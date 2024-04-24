@@ -323,5 +323,5 @@ If you want to reach out to me about anything, be it some doubt or just small ta
  </p>
 
 <p align="center">
-<b><i align="center">- Have a nice day -</i></b>
+<b><i align="center">Have a nice day</i> 🌍</b>
  </p>
