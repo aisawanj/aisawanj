@@ -46,7 +46,7 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 <h2 align="Left"><u>🗃 Projects</u></h2>
 
 [![Bank churn prediction using machine learning](https://github-readme-stats.vercel.app/api/pin/?username=aisawanj&repo=Bank_churn_prediction_using_machine_learning&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aisawanj/Bank_churn_prediction_using_machine_learning)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=aisawanj&repo=Automating_data_pipeline_with_Apache_Airflow&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aisawanj/Automating_data_pipeline_with_Apache_Airflow)
+[![Automating data pipeline with Apache Airflow](https://github-readme-stats.vercel.app/api/pin/?username=aisawanj&repo=Automating_data_pipeline_with_Apache_Airflow&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aisawanj/Automating_data_pipeline_with_Apache_Airflow)
 
 
 <br>
