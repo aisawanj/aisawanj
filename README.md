@@ -316,3 +316,12 @@ If you want to reach out to me about anything, be it some doubt or just small ta
  <a href="mailto:aisawan.jindarat@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>&nbsp;&nbsp;
                                             
  </p>
+
+<br><br>
+<p align="center">
+<b><i align="center">" Thank you for taking the time to visit my profile ”</i></b>
+ </p>
+
+<p align="center">
+<b><i align="center">- Happy Coding -</i></b>
+ </p>
