@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+!;Self-taught+Front-End+Developer;Always+learning+new+thing;CTF+Newbie;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile+!;Self-taught+Front-End+Developer;Always+learning+new+thing;CTF+Newbie;Open+to+anything+under+the+sun..🌞"></a>
 </p>
 
   
@@ -22,10 +22,14 @@
 
 <br>
 Now I'm studying for a Master's degree in MBA at Prince of Songkla University, Songkhla. Liked mathematics and statistics, and interested in big data technologies and business intelligence to analyze data for practical insights.
+<br><br>
 
-*   🌍  I'm based in Songkhla, Thailand
-*   ✉️  You can contact me at [aisawan\_jindarat@hotmail.com](mailto:aisawan_jindarat@hotmail.com)
-*   🧠  I'm interested in learning more about Hadoop, AWS, Azure, NoSQL, AI and Machine Learning, JavaScript, and Docker
+- 👨🏻‍💻 My interest lies in Big data technologies, Data Science, Machine Learning, and Business Statistics.
+- ✍🏻 Currently learning more about Docker, NoSQL, Azure, PHP, and Hadoop.
+- 🤓 My hobbies are reading books, writing a book, listening to music, and Playing Golf.
+- 🌱 I’m always learning new things on the internet.
+- 👯 I'm always open to interesting conversations and collaboration.
+- 🎯 2024 Goals: Data Engineering Professional.
 
 <br>
 <h2 align="Left"><u>🏆 Certificates</u></h2>
@@ -43,6 +47,8 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 <br>
 <h2 align="Left"><u>🗃 Projects</u></h2>
 
+Some of my main projects :
+
 [![Bank churn prediction using machine learning](https://github-readme-stats.vercel.app/api/pin/?username=aisawanj&repo=Bank_churn_prediction_using_machine_learning&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aisawanj/Bank_churn_prediction_using_machine_learning)
 [![Automating data pipeline with Apache Airflow](https://github-readme-stats.vercel.app/api/pin/?username=aisawanj&repo=Automating_data_pipeline_with_Apache_Airflow&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aisawanj/Automating_data_pipeline_with_Apache_Airflow)
 
@@ -50,7 +56,9 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 <br>
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
 
-### Domain Knownledge
+These are some of the major technologies that I use or have worked on in the past :
+
+### Domain Knowledge
 - Data Engineer
 - Data Science 
 - Machine Learning
@@ -291,6 +299,9 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
 <br><br><br><br><br>
 <h2 align="Left"><u>🌐 Connect with me</u></h2>
 
+If you want to reach out to me about anything, be it some doubt or just small talk, You can contact me anytime.
+
+<br>
 <p align='left'>
    <a href="https://www.linkedin.com/in/aisawan-jindarat/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>&nbsp;&nbsp;    
  <a href="https://github.com/aisawanj" target="_blank"><img height="30" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
