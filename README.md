@@ -61,8 +61,8 @@ This project is to create a pipeline that transforms data automatically to prepa
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
 
 ### Domain Knowledge
-- Data Engineer
-- Data Science 
+- [x] Data Engineer
+- [x] Data Science 
 - Machine Learning
 - Electrical Engineering
 
