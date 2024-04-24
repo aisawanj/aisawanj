@@ -60,6 +60,12 @@ Now I'm studying for a Master's degree in MBA at Prince of Songkla University, S
       </a>
       <br>Python
     </td>
+      <td align="center" width="96">
+      <a href="#SQL">
+        <img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" width="40" height="40" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
     <td align="center" width="96">
       <a href="#HTML">
         <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40" alt="HTML" />
