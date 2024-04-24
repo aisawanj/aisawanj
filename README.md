@@ -20,7 +20,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Aisawan, graduated in 2018 with a B.Eng. in Electrical Engineering from Rajamangala University of Technology Srivijaya, currently studying for a Master's degree in Master of Business Administration at Prince of Songkla University. I am passionate about modern business management, particularly in the fields of programming, data-driven technologies, and business intelligence to analyze data for practical insights. I have honed my skills through hands-on experience on the internet and various study online courses, which has allowed me to expand my skill set.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am enthusiastic about exploring new technologies and pushing the boundaries of what is possible through programming. I am committed to producing high-quality work and delivering results that exceed expectations. If you're looking for a motivated and dedicated data engineer, I would love to connect and discuss potential opportunities. 🤝
@@ -33,7 +32,7 @@
 - 👯 I'm always open to interesting conversations and collaboration.
 - 🎯 2024 Goals: Data Engineering Professional.
 
-<br>
+
 <h2 align="Left"><u>🎖 Certificates</u></h2>
 
 | Link Address                     | Description                                                |
@@ -45,7 +44,7 @@
 | _[Link (Power BI)](https://drive.google.com/file/d/1fjz7PlGhneQd7uCnU4xFYIjqrnSVcHEC/view?usp=sharing)_     |  MS Power BI for Data Analytics              |
 | _[Link (Excel)](https://drive.google.com/file/d/1jgRDe18QZrasfHM0ciWj5DFcbKZNvIq_/view)_                    | MS Excel Power Query                         |
 
-<br>
+
 <h2 align="Left"><u>🗃 Projects</u></h2>
 
 Some of my main projects :
@@ -58,7 +57,7 @@ This project uses machine learning, which involves analyzing customer data to id
 This project is to create a pipeline that transforms data automatically to prepare it for use by Ingest data from MySQL database using SQL and getting data from Rest API, Transform data following business requirements defined using Python, and exporting data into the Data Warehouse on BigQuery using GCSToBigQueryOperator to support analysis in various parts of the next business.
 
 
-<br>
+
 <h2 align="Left"><u>💻 Languages and Tools</u></h2>
 
 ### Domain Knowledge
@@ -82,7 +81,7 @@ This project is to create a pipeline that transforms data automatically to prepa
 | IDEs / Editors | <table><td align="center" width="96"><a href="#Visual Studio Code"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40" height="40" alt="Visual Studio Code" /></a><br>VS Code</td> <td align="center" width="96"><a href="#Jupyter Notebook"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="40" height="40" alt="Jupyter Notebook" /></a><br>Jupyter</td> <td align="center" width="96"><a href="#Google Colab"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40" alt="Google Colab" /></a><br>Colab</td></table> |
 
 
-<br>
+
 <h2 align="Left"><u>🌐 Connect with me</u></h2>
 
 If you want to reach out to me about anything, be it some doubt or just small talk, You can contact me anytime : )
